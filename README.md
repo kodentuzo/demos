@@ -1,5 +1,7 @@
 # Kodentuzo Demos
 
+> Example web apps.
+
 Finished example apps set up for [Kodentuzo Studio](https://github.com/kodentuzo/studio), one per folder. None yet.
 
 Each app lives in its own top-level folder with its own `tape.json`, the file that says what the
